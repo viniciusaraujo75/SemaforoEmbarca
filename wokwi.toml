@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'semaforo_rp2040.uf2'
+elf = 'build/semaforo_rp2040.elf'
